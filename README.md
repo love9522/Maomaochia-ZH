@@ -16,6 +16,6 @@ WordPress
 全部内容都属于Maomaochia版权所有。
 
 # 作者
-Mal Chia-初期工作
+[Mal Chia](https://zh.maomaochia.com/author/love9522/)-初期工作
 另请参阅参与我们博客的贡献者列表。
-[贡献者]（https：//＃）
+
